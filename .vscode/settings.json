@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "entornoprueba/bin/python3",
+    "python.linting.flake8Enabled": true
+}
